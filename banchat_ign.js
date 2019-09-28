@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         banchat
-// @version      0.04
+// @name         banchat_ign
+// @version      0.05
 // @description  ignore chat
 // @author       z1z2z3z4
 // @match        https://banjai.net/*
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.3.1.min.js#sha256=FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=
-// @@updateURL   https://raw.githubusercontent.com/z1z2z3z4/banchat/master/banchat.js
-// @downloadURL  https://raw.githubusercontent.com/z1z2z3z4/banchat/master/banchat.js
+// @@updateURL   https://raw.githubusercontent.com/z1z2z3z4/banchat/master/banchat_ign.js
+// @downloadURL  https://raw.githubusercontent.com/z1z2z3z4/banchat/master/banchat_ign.js
 // ==/UserScript==
 
 /*
